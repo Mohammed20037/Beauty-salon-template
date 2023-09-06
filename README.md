@@ -1,9 +1,9 @@
-# Beauty Salon Website Template
+## Beauty Salon Website Template
 
 Welcome to the Beauty Salon Website Template, a sophisticated and user-friendly template designed to enhance the online presence of your beauty salon. This template features a captivating home page and an efficient appointment booking system to make a lasting impression on your clients.
 
 ![Alt text](https://github.com/Mohammed20037/Beauty-salon-template/assets/113844625/881a58d6-07d0-4e12-85c3-a2830d97ff6f)
-![Alt text](![image](https://github.com/Mohammed20037/Beauty-salon-template/assets/113844625/d5ab6d15-e3d4-4c80-b957-d094149e0538)
+![Alt text](https://github.com/Mohammed20037/Beauty-salon-template/assets/113844625/d5ab6d15-e3d4-4c80-b957-d094149e0538)
 
 ## Table of Contents
 
